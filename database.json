@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Mario Casas Duarte",
+            "documento": "123456789",
+            "planta": "Medellin",
+            "usuario": "123456789",
+            "id": 1
+        },
+        {
+            "nombre": "Arley De Jesus Gomez Duarte",
+            "documento": "987654321",
+            "planta": "Marinilla",
+            "usuario": "987654321",
+            "id": 2
+        }
+    ],
+    "descargues": [
+        {
+            "id": 1,
+            "fechaDescargue": "2025-02-02",
+            "usuarioId": 1,
+            "placa": "FNL552",
+            "numRemision": "98898585",
+            "tipoProducto": "Cemento Extructural Emax",
+            "observaciones": ""
+        }
+    ]
+}
