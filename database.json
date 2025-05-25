@@ -4,15 +4,13 @@
             "nombre": "Mario Casas Duarte",
             "documento": "123456789",
             "planta": "Medellin",
-            "usuario": "123456789",
-            "id": 1
+            "usuario": "123456789"
         },
         {
             "nombre": "Arley De Jesus Gomez Duarte",
             "documento": "987654321",
             "planta": "Marinilla",
-            "usuario": "987654321",
-            "id": 2
+            "usuario": "987654321"
         }
     ],
     "descargues": [
